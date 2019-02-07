@@ -27,6 +27,7 @@ X_norm = X;
 %       
 
 mu = mean(X_norm);
+
 sigma = std(X_norm);
 
 
